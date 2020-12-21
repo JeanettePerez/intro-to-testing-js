@@ -16,7 +16,7 @@ function sayHello(input) {
 }
 
  */
-
+// in orde for the function to not be hard coded
 function sayHello(input) {
     return "Hello, " + input + "!";
 }
